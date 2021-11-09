@@ -3,7 +3,7 @@
 
 Course I followed - DP-203 on Udemy [Link][https://www.udemy.com/course/data-engineering-on-microsoft-azure/]
 
-1. 
+1. Getting Started (Azure Signup and common terms)
 2. 
 3. 
 4.  
